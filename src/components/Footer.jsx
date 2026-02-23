@@ -6,11 +6,11 @@ import { ChevronRight, Mail, MapPin, Phone } from "lucide-react";
 
 const Footer = () => {
   const nav_links = [
-    { name: "About", link:"/about-matenergy"},
+    { name: "About", link: "/about-matenergy" },
     { name: "Executive Panel", link: "/executive-panel-members/" },
-    { name: "Tracks", link:  "/matenergy-conference-tracks/" },
-    { name: "Orators", link: "/matenergy-orators"},
-    { name: "Schedule", link: "/matenergy-event-schedule"},
+    { name: "Tracks", link: "/matenergy-conference-tracks/" },
+    { name: "Orators", link: "/matenergy-orators" },
+    { name: "Schedule", link: "/matenergy-event-schedule" },
     { name: "Venue", link: "/venue" },
     { name: "Event Partners", link: "/event_partners" },
     { name: "Contact", link: "/Contact" },
@@ -30,10 +30,10 @@ const Footer = () => {
 
           />
           <br />
-        <p style={{}}>
- “Powering a Sustainable Future Through Advanced Materials and Clean Energy Innovation”
-        </p>
-       
+          <p className="text-justify">
+            “Powering a Sustainable Future Through Advanced Materials and Clean Energy Innovation”
+          </p>
+
         </div>
       </div>
 
@@ -98,7 +98,7 @@ const Footer = () => {
           <div className="flex flex-row gap-2 items-start justify-center md:justify-start px-4 md:px-0 text-sm sm:text-base">
             <MapPin size="30" />
             <p className="text-left">
-           Vancouver | Canada
+              Vancouver | Canada
             </p>
           </div>
         </div>

@@ -45,12 +45,12 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/executive-panel-members/" element={<ExecutiveMembers />} />
-        <Route path=  "/matenergy-orators"element={<Orators />} />
-        <Route path="/about-matenergy"element={<AboutOralMed />} />
-        <Route path="/matenergy-event-schedule"element={<EventSchedule />} />
+        <Route path="/matenergy-orators" element={<Orators />} />
+        <Route path="/about-matenergy" element={<AboutOralMed />} />
+        <Route path="/matenergy-event-schedule" element={<EventSchedule />} />
         <Route path="/venue" element={<Venue/>}/>
         <Route path="/contact" element={<ContactForm />} />
-        <Route path= "/matenergy-conference-tracks/"element={<RotatingLogos />} />
+        <Route path="/matenergy-conference-tracks/" element={<RotatingLogos />} />
         <Route path="/abstract-submission" element={<AbstractSubmission />} />
         {/* <Route path="/brochure-download" element={<BrochureDownload />} /> */}
         <Route path="/faq" element={<FAQPage />} />
