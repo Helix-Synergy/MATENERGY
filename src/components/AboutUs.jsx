@@ -32,7 +32,7 @@ const AboutUs = () => {
           <span className="text-one">Advancing Global Leadership  </span>{" "}
           in Advanced Materials & Clean Energy
         </h1>
-        <p className="text-base my-2">
+        <p className="text-base my-2 text-justify">
           Welcome to the premier global platform for the  <Link to="https://helixconferences.com/buy-a-ticket" className="
              hover:text-accent hover:decoration-accent
              transition-colors duration-300"> Advanced Materials & Clean Energy Forum, </Link>  where leading experts and decision-makers converge to advance innovations in advanced materials, clean energy technologies, and sustainable manufacturing. The forum unites researchers, engineers, industry leaders, and policymakers to address critical challenges and shape the future of efficient, intelligent, and sustainable energy and materials systems.
@@ -40,7 +40,7 @@ const AboutUs = () => {
           <Link
             className="text-accent font-bold"
             target="_blank"
-            to="https://helixconferences.com/blog.php"
+            // to="https://helixconferences.com/blog.php"
           ></Link>{" "}
         </p>
         <p>“Empowering Innovation and Sustainability Through Advanced Materials and Clean Energy Solutions”</p>

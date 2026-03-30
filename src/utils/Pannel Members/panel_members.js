@@ -33,7 +33,7 @@ export const panel_members_about = [
   {
     id: "Paulo",
     image: Wahad,
-    name: "Assoc.PROF. Noor lzzriBin Abdul Wahad",
+    name: " Noor lzzriBin Abdul Wahad",
     from: "Malaysia",
     about: "Putra University",
     // link: "/executive-panel-members/Paulo",
