@@ -17,7 +17,7 @@ export const faqData = [
   {
     question: "When and where will MATENERGY-2026 take place?",
     answer:
-      "MATENERGY-2026 will be held on September 24–25, 2026, in Osaka, Japan.",
+      "MATENERGY-2026 will be held on October 22–23, 2026, in Osaka, Japan.",
   },
   {
     question: "What are the key highlights of MATENERGY-2026?",
