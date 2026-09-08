@@ -29,7 +29,7 @@ const Executive_members = () => {
           Meet Our Distinguished Panel Members
         </h2>
         <p className="w-full md:w-2/3 text-sm md:text-base text-slate-600">
-Leading global materials scientists, clean energy researchers, and innovators shaping the future of advanced materials and sustainable energy systems at MATENERGY-2026
+Leading global materials scientists, clean energy researchers, and innovators shaping the future of advanced materials and sustainable energy systems at MATENERGY-2027
         </p>
       </div>
 

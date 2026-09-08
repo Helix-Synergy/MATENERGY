@@ -21,7 +21,7 @@ import about1 from "../assets/Images1/about1.webp"
 const data = {
   event: {
     title: "About Us",
-    date: "25th - 27th Nov 2025",
+    date: "Feb 22-23 | 2027",
     organizer: "Helix Conferences",
     description: [
       <>
@@ -108,9 +108,9 @@ const data = {
 
 
   dates: {
-    eventDate: "25th-27th Nov 2025",
+    eventDate: "Feb 22-23 | 2027",
     venue: "Novotel Valencia, Spain",
-    registrationDeadline: "1st Nov 2025",
+    registrationDeadline: "1st Feb 2027",
   },
 };
 
@@ -137,7 +137,7 @@ const AboutPublicHealth = () => {
       </h1>
       <p className="text-center text-gray-600 text-3xl mb-6">
         <strong>
-          22<sup>nd</sup> - 23<sup>rd</sup> Oct 2026
+          Feb 22-23 | 2027
         </strong>
       </p>
 
@@ -154,7 +154,7 @@ const AboutPublicHealth = () => {
       {/* Join Section */}
       <section className="mb-10 text-center w-full max-w-7xl mx-auto px-2 md:px-12 lg:px-24">
         <h2 className="text-3xl font-bold text-one mb-4 w-full">
-          Join the Global Community at on MATENERGY-2026
+          Join the Global Community at on MATENERGY-2027
         </h2>
         {data.join.map((para, idx) => (
           <p

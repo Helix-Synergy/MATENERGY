@@ -27,7 +27,7 @@ const Orators = () => {
           Meet Our Distinguished Orators
         </h2>
         <p className="w-full md:w-2/3 text-sm md:text-base text-slate-600">
-International materials science leaders and clean energy experts advancing next-generation sustainable materials and energy innovations at MATENERGY-2026
+International materials science leaders and clean energy experts advancing next-generation sustainable materials and energy innovations at MATENERGY-2027
         </p>
       </div>
 

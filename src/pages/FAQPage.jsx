@@ -10,22 +10,22 @@ const faqLinks = {
 
 export const faqData = [
   {
-    question: "What is MATENERGY-2026?",
+    question: "What is MATENERGY-2027?",
     answer:
-      "MATENERGY-2026, officially titled the “Advanced Materials & Clean Energy Forum”, is a premier international conference organized by Helix Conferences. The forum brings together materials scientists, clean energy researchers, industry leaders, policymakers, startups, and innovators to explore advanced materials, renewable energy technologies, energy storage, sustainability, and next-generation clean energy solutions.",
+      "MATENERGY-2027, officially titled the “Advanced Materials & Clean Energy Forum”, is a premier international conference organized by Helix Conferences. The forum brings together materials scientists, clean energy researchers, industry leaders, policymakers, startups, and innovators to explore advanced materials, renewable energy technologies, energy storage, sustainability, and next-generation clean energy solutions.",
   },
   {
-    question: "When and where will MATENERGY-2026 take place?",
+    question: "When and where will MATENERGY-2027 take place?",
     answer:
-      "MATENERGY-2026 will be held on October 22–23, 2026, in Osaka, Japan.",
+      "MATENERGY-2027 will be held on Feb 22-23 | 2027, in Osaka, Japan.",
   },
   {
-    question: "What are the key highlights of MATENERGY-2026?",
+    question: "What are the key highlights of MATENERGY-2027?",
     answer:
       "Keynote addresses by global experts, technical workshops, clean energy innovation sessions, advanced materials research presentations, panel discussions, technology exhibitions, startup showcases, and high-impact networking opportunities.",
   },
   {
-    question: "What topics and tracks are covered at MATENERGY-2026?",
+    question: "What topics and tracks are covered at MATENERGY-2027?",
     answer: (
       <>
         Explore the complete list of conference tracks here:{" "}
@@ -35,7 +35,7 @@ export const faqData = [
           rel="noopener noreferrer"
           className="text-blue-600 underline"
         >
-          MATENERGY-2026 Tracks
+          MATENERGY-2027 Tracks
         </a>
         .
       </>
@@ -87,14 +87,14 @@ export const faqData = [
       "Standard presentation slots are typically 15–20 minutes, including Q&A. Final guidelines will be shared upon acceptance.",
   },
   {
-    question: "Who should attend MATENERGY-2026?",
+    question: "Who should attend MATENERGY-2027?",
     answer:
       "Materials scientists, clean energy researchers, renewable energy engineers, sustainability professionals, policymakers, industry leaders, startups, investors, and academicians.",
   },
   {
     question: "How many participants are expected?",
     answer:
-      "MATENERGY-2026 is expected to host 150+ international participants, including speakers, delegates, exhibitors, and sponsors.",
+      "MATENERGY-2027 is expected to host 150+ international participants, including speakers, delegates, exhibitors, and sponsors.",
   },
   {
     question: "Can I submit multiple abstracts?",

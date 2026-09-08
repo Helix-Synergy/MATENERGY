@@ -17,7 +17,7 @@ const Schedule = () => {
         }}
       >
         <h1 className="text-white text-3xl sm:text-5xl md:text-6xl font-bold px-4">
- MATENERGY - 2026
+ MATENERGY-2027
         </h1>
       </div>
 
@@ -26,7 +26,7 @@ const Schedule = () => {
         <EventSchedule
           height={"auto"}
           name={"Download"}
-          link={"/pharmaTech_schedule.pdf"}
+          link={"/MATENERGY -2027.pdf"}
         />
       </div>
 
